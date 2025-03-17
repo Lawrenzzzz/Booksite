@@ -1,0 +1,10 @@
+.success-message {
+    color: lightcyan;
+    padding:20px;
+    font-size:100px;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 10px;
+    width: 100%;
+    font-family:'Trebuchet MS';
+}
